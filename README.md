@@ -1,14 +1,17 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Meteoric-Agency/Meteoric-Agency/main/assets/logo-white.svg">
+    <img src="https://raw.githubusercontent.com/Meteoric-Agency/Meteoric-Agency/main/assets/logo-black.svg" alt="Meteoric" width="180">
+  </picture>
 
-# ☄️ Meteoric
+  <p><b>Premium web experiences, scalable full-stack apps, and modern digital products for startups and founders.</b></p>
 
-**Premium web experiences, scalable full-stack apps, and modern digital products for startups and founders.**
-
-[![Website](https://img.shields.io/badge/website-withmeteoric.com-070707?style=for-the-badge&logo=googlechrome&logoColor=EAEFFF)](https://withmeteoric.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meteoric-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/withmeteoric)
-[![X](https://img.shields.io/badge/X-@prashantkhuva_-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prashantkhuva_)
-[![Email](https://img.shields.io/badge/contact-contact@withmeteoric.com-EAEFFF?style=for-the-badge&logo=gmail&logoColor=070707)](mailto:contact@withmeteoric.com)
-
+  <p>
+    <a href="https://withmeteoric.com"><img src="https://img.shields.io/badge/website-withmeteoric.com-070707?style=for-the-badge&logo=googlechrome&logoColor=EAEFFF" alt="Website"></a>
+    <a href="https://www.linkedin.com/company/withmeteoric"><img src="https://img.shields.io/badge/LinkedIn-Meteoric-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://x.com/prashantkhuva_"><img src="https://img.shields.io/badge/X-@prashantkhuva_-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+    <a href="mailto:contact@withmeteoric.com"><img src="https://img.shields.io/badge/contact-contact@withmeteoric.com-EAEFFF?style=for-the-badge&logo=gmail&logoColor=070707" alt="Email"></a>
+  </p>
 </div>
 
 ---
@@ -32,14 +35,50 @@ Every project includes post-launch support.
 
 ## Selected work
 
-| | Project | Description |
-| --- | --- | --- |
-| 🎯 | **[Let'em Know](https://agency-v2-theta.vercel.app/)** | Premium agency site — canvas particle hero, GSAP scroll animations, Lenis smooth scroll |
-| 🔁 | **[Habit Flow](https://habit-flow-fullstack.vercel.app/)** | Full-stack SaaS habit tracker — streaks, weekly analytics, reminders, JWT auth |
-| ✍️ | **[MegaBlog](https://megablog.vercel.app/)** | Editorial blogging platform — rich text editor, Appwrite backend, Redux Toolkit, dark UI |
-| 📱 | **[Mobile Preview Simulator](https://marketplace.visualstudio.com/items?itemName=Prashantkhuva.mobile-preview-simulator)** | VS Code extension — preview responsive mobile layouts inside the editor |
+<table>
+  <tr>
+    <td width="38%" valign="top">
+      <img src="https://raw.githubusercontent.com/Meteoric-Agency/Meteoric-Agency/main/assets/letem-know.webp" width="100%" alt="Let'em Know — premium agency website">
+    </td>
+    <td valign="top">
+      <h3>🎯 Let'em Know</h3>
+      <p>Premium marketing agency site — canvas particle hero, GSAP scroll animations, Lenis smooth scroll.</p>
+      <p><a href="https://agency-v2-theta.vercel.app/">Live site →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="38%" valign="top">
+      <img src="https://raw.githubusercontent.com/Meteoric-Agency/Meteoric-Agency/main/assets/habit-flow.webp" width="100%" alt="Habit Flow — SaaS habit tracker">
+    </td>
+    <td valign="top">
+      <h3>🔁 Habit Flow</h3>
+      <p>Full-stack SaaS habit tracker — streak tracking, weekly analytics, reminders, JWT authentication.</p>
+      <p><a href="https://habitflow.indevs.in/">Live site →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="38%" valign="top">
+      <img src="https://raw.githubusercontent.com/Meteoric-Agency/Meteoric-Agency/main/assets/megablog.webp" width="100%" alt="MegaBlog — editorial blogging platform">
+    </td>
+    <td valign="top">
+      <h3>✍️ MegaBlog</h3>
+      <p>Editorial blogging platform — rich text editor, Appwrite backend, Redux Toolkit, dark editorial UI.</p>
+      <p><a href="https://megablog.vercel.app/">Live site →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="38%" valign="top">
+      <img src="https://raw.githubusercontent.com/Meteoric-Agency/Meteoric-Agency/main/assets/mobile-simulator.webp" width="100%" alt="Mobile Preview Simulator — VS Code extension">
+    </td>
+    <td valign="top">
+      <h3>📱 Mobile Preview Simulator</h3>
+      <p>VS Code extension — preview responsive mobile layouts without leaving the editor. Published on the Visual Studio Marketplace.</p>
+      <p><a href="https://marketplace.visualstudio.com/items?itemName=Prashantkhuva.mobile-preview-simulator">Marketplace →</a></p>
+    </td>
+  </tr>
+</table>
 
-Real client results with metrics, timelines, and outcomes live in [our case studies →](https://withmeteoric.com/case-studies)
+Real client results with metrics, timelines, and outcomes live in **[our case studies →](https://withmeteoric.com/case-studies)**
 
 ## How we work
 
@@ -67,11 +106,11 @@ Real client results with metrics, timelines, and outcomes live in [our case stud
 
 ## Writing
 
-We publish practical engineering and growth guides — [20 articles and counting →](https://withmeteoric.com/blog)
+Practical engineering and growth guides — **[20 articles and counting →](https://withmeteoric.com/blog)**
 
 - [How to Build a SaaS MVP: Step-by-Step Guide](https://withmeteoric.com/blog/how-to-build-a-saas-mvp-step-by-step-guide)
 - [Supabase vs Firebase 2026: Which Backend Should You Choose?](https://withmeteoric.com/blog/supabase-vs-firebase-2026-comparison)
-- [Startup SEO on a Budget: What to Do First](https://withmeteoric.com/blog/startup-seo-on-budget-what-to-do-first)
+- [Startup SEO on a Budget: What to Do First](https://withmeteoric.com/blog/startup-seo-on-a-budget-what-to-do-first)
 - [AI Search Optimization: Get Cited by ChatGPT and Perplexity](https://withmeteoric.com/blog/ai-search-optimization-how-to-get-cited-by-chatgpt)
 
 Full index for AI assistants: [withmeteoric.com/llms.txt](https://withmeteoric.com/llms.txt)
